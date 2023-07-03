@@ -11,4 +11,4 @@ const osAbilities={
     type:os.type(),
 }
 
-console.log(osabilities)
+console.log(osAbilitiess)
